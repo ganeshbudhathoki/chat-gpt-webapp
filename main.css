@@ -1,0 +1,12 @@
+.box {
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    opacity: 0.5;
+    height: 100px;
+}
+
+.square-image{
+    width:100px;
+    height:100px;
+    object-fit: cover;
+    object-position: center;
+}
